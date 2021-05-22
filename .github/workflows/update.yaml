@@ -17,6 +17,7 @@ jobs:
 
       - name: Install wkhtmltopdf
         run: |
+          nix-channel --update
           nix-env -iA nixpkgs.wkhtmltopdf
           wkhtmltoimage --version
 
