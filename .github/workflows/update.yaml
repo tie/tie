@@ -15,7 +15,7 @@ jobs:
 
       - name: Install wkhtmltopdf
         run: |
-          nix-env -iA wkhtmltopdf
+          nix-env -iA nixpkgs.wkhtmltopdf
           wkhtmltoimage --version
 
       - name: Checkout code
