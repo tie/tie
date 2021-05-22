@@ -6,8 +6,8 @@ on:
     - cron: '0 10 * * 5'
 
 jobs:
-  build:
-    name: Build SVG
+  svg:
+    name: SVG
     runs-on: ubuntu-latest
     steps:
       - name: Install wkhtmltopdf
@@ -15,6 +15,7 @@ jobs:
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
           sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
           rm ./wkhtmltox_0.12.6-1.focal_amd64.deb
+          wkhtmltoimage --version
 
       - name: Checkout code
         uses: actions/checkout@v2.3.4
