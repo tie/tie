@@ -1,0 +1,35 @@
+name: Update
+on:
+  workflow_dispatch:
+  schedule:
+    # At 10:00 UTC on Friday.
+    - cron: '0 10 * * 5'
+
+jobs:
+  build:
+    name: Build SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install wkhtmltopdf
+        run: |
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+          sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
+          rm ./wkhtmltox_0.12.6-1.focal_amd64.deb
+
+      - name: Checkout code
+        uses: actions/checkout@v2.3.4
+
+      - name: Render HTML to SVG
+        run: wkhtmltoimage --disable-javascript --width 720 'https://b1nary.tk/~tie' self.svg
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v3.9.2
+        with:
+          author: GitHub <actions@github.com>
+          committer: GitHub <actions@github.com>
+          commit-message: 'Rebuild SVG from HTML'
+          branch: update-svg
+          delete-branch: true
+          title: Update SVG
+          body: |
+            This PR updates SVG image using the latest HTML profile page.
