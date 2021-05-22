@@ -1,0 +1,22 @@
+/*
+A hack to force dark color scheme. Default stylesheet uses prefers-color-scheme
+that we can’t set via CSS or wkhtmltoimage. See https://b1nary.tk/ass/main.css.
+*/
+:root
+{ background-color: black !important
+; color: white !important
+}
+blockquote,
+table td, table th
+{ border-color: gray !important
+}
+hr:after
+{ color: var(--line-color)
+; font-size: gray !important
+}
+img:not([src*=".svg"])
+{ filter: grayscale(25%)
+}
+img[src*=".svg"]
+{ filter: invert(100%)
+}
