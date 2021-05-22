@@ -13,12 +13,12 @@ jobs:
       - name: Install nix
         uses: cachix/install-nix-action@v13
         with:
-          nix_path: nixpkgs=channel:nixos-unstable
+          nix_path: nixpkgs=channel:nixos-20.09
 
       - name: Install wkhtmltopdf
         run: |
-          nix-channel --update
-          nix-env -iA nixpkgs.wkhtmltopdf
+          sudo nix-channel --update
+          sudo nix-env -iA nixpkgs.wkhtmltopdf
           wkhtmltoimage --version
 
       - name: Checkout code
