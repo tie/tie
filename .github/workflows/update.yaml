@@ -17,8 +17,7 @@ jobs:
 
       - name: Install wkhtmltopdf
         run: |
-          sudo nix-channel --update
-          sudo nix-env -iA nixpkgs.wkhtmltopdf
+          nix-env -i wkhtmltopdf -f '<nixpkgs>'
           wkhtmltoimage --version
 
       - name: Checkout code
