@@ -668,37 +668,105 @@ font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal"
  ></text>
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+ ></text>
+</g>
+
+<g fill="#bfbfbf" fill-opacity="1" stroke="#bfbfbf" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#bfbfbf" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M313.406,38.6563 L311.219,38.6563 L311.219,36.9531 L313.406,36.9531 L313.406,32.2813 L318.422,32.2813 L318.422,36.9531 L322.594,36.9531 L322.594,38.6563 L318.422,38.6563 L318.422,47.875 C318.422,49.1875 318.526,50.0052 318.734,50.3281 C318.943,50.651 319.318,50.8125 319.859,50.8125 C320.464,50.8125 320.911,50.6094 321.203,50.2031 C321.495,49.7969 321.651,49.1667 321.672,48.3125 L323.781,48.3125 C323.698,49.8229 323.286,50.8828 322.547,51.4922 C321.807,52.1016 320.531,52.4063 318.719,52.4063 C316.646,52.4063 315.242,52.0833 314.508,51.4375 C313.773,50.7917 313.406,49.6042 313.406,47.875 L313.406,38.6563 M326.578,32.6875 C326.578,31.9167 326.844,31.2708 327.375,30.75 C327.906,30.2292 328.552,29.9688 329.313,29.9688 C330.063,29.9688 330.698,30.2292 331.219,30.75 C331.74,31.2708 332,31.9167 332,32.6875 C332,33.4271 331.74,34.0599 331.219,34.5859 C330.698,35.112 330.063,35.375 329.313,35.375 C328.552,35.375 327.906,35.1146 327.375,34.5938 C326.844,34.0729 326.578,33.4375 326.578,32.6875 M332.063,50.2813 L334.219,50.2813 L334.219,52 L324.906,52 L324.906,50.2813 L327.047,50.2813 L327.047,38.6563 L324.906,38.6563 L324.906,36.9531 L332.063,36.9531 L332.063,50.2813 M346.563,43.5 C346.563,41.5208 346.378,40.1328 346.008,39.3359 C345.638,38.5391 345.01,38.1406 344.125,38.1406 C343.271,38.1406 342.656,38.5313 342.281,39.3125 C341.906,40.0938 341.719,41.4063 341.719,43.25 L341.719,43.5 L346.563,43.5 M352.078,45.1875 L341.719,45.1875 L341.719,45.2969 C341.719,47.2448 342.01,48.651 342.594,49.5156 C343.177,50.3802 344.125,50.8125 345.438,50.8125 C346.521,50.8125 347.396,50.5234 348.063,49.9453 C348.729,49.3672 349.161,48.5313 349.359,47.4375 L351.703,47.4375 C351.297,49.1458 350.49,50.401 349.281,51.2031 C348.073,52.0052 346.385,52.4063 344.219,52.4063 C341.604,52.4063 339.602,51.7214 338.211,50.3516 C336.82,48.9818 336.125,47.0208 336.125,44.4688 C336.125,41.9792 336.839,40.0339 338.266,38.6328 C339.693,37.2318 341.677,36.5313 344.219,36.5313 C346.708,36.5313 348.617,37.2656 349.945,38.7344 C351.273,40.2031 351.984,42.3542 352.078,45.1875 M355.719,49.7031 C355.719,48.9635 355.984,48.3307 356.516,47.8047 C357.047,47.2786 357.682,47.0156 358.422,47.0156 C359.161,47.0156 359.797,47.2786 360.328,47.8047 C360.859,48.3307 361.125,48.9635 361.125,49.7031 C361.125,50.4531 360.859,51.0911 360.328,51.6172 C359.797,52.1432 359.161,52.4063 358.422,52.4063 C357.682,52.4063 357.047,52.1432 356.516,51.6172 C355.984,51.0911 355.719,50.4531 355.719,49.7031 "/>
+</g>
+
+<g fill="#bfbfbf" fill-opacity="1" stroke="#bfbfbf" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#bfbfbf" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+ ></text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+ ></text>
+</g>
+
+<g fill="#8f8f8f" fill-opacity="1" stroke="#8f8f8f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#8f8f8f" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M376.375,50.2813 L376.375,31.6719 L374.234,31.6719 L374.234,29.9688 L381.391,29.9688 L381.391,38.8594 C381.818,38.0781 382.391,37.4948 383.109,37.1094 C383.828,36.724 384.714,36.5313 385.766,36.5313 C387.911,36.5313 389.599,37.237 390.828,38.6484 C392.057,40.0599 392.672,42 392.672,44.4688 C392.672,46.9271 392.057,48.8646 390.828,50.2813 C389.599,51.6979 387.911,52.4063 385.766,52.4063 C384.714,52.4063 383.828,52.2161 383.109,51.8359 C382.391,51.4557 381.818,50.875 381.391,50.0938 L381.391,52 L374.234,52 L374.234,50.2813 L376.375,50.2813 M381.391,45.2188 C381.391,46.9688 381.615,48.237 382.063,49.0234 C382.51,49.8099 383.234,50.2031 384.234,50.2031 C385.266,50.2031 385.992,49.7865 386.414,48.9531 C386.836,48.1198 387.047,46.625 387.047,44.4688 C387.047,42.3021 386.836,40.8073 386.414,39.9844 C385.992,39.1615 385.266,38.75 384.234,38.75 C383.234,38.75 382.51,39.1406 382.063,39.9219 C381.615,40.7031 381.391,41.974 381.391,43.7344 L381.391,45.2188 M397.813,52 L397.813,50.2813 L401.766,50.2813 L401.766,33.1875 L397.375,35.7813 L397.375,33.6719 L402.672,30.4688 L407.141,30.4688 L407.141,50.2813 L411.125,50.2813 L411.125,52 L397.813,52 M414.984,52 L414.984,50.2813 L417.125,50.2813 L417.125,38.6563 L414.984,38.6563 L414.984,36.9531 L422.141,36.9531 L422.141,39.0781 C422.745,38.1719 423.435,37.5208 424.211,37.125 C424.987,36.7292 425.964,36.5313 427.141,36.5313 C428.828,36.5313 430.104,37.0313 430.969,38.0313 C431.833,39.0313 432.266,40.4948 432.266,42.4219 L432.266,50.2813 L434.422,50.2813 L434.422,52 L425.422,52 L425.422,50.2813 L427.25,50.2813 L427.25,42.2813 C427.25,41.0104 427.089,40.1276 426.766,39.6328 C426.443,39.138 425.88,38.8906 425.078,38.8906 C424.068,38.8906 423.326,39.2604 422.852,40 C422.378,40.7396 422.141,41.9167 422.141,43.5313 L422.141,50.2813 L423.984,50.2813 L423.984,52 L414.984,52 M451.047,42.75 L451.047,50.2813 L453.203,50.2813 L453.203,52 L446.031,52 L446.031,50.0938 C445.375,50.8854 444.641,51.4688 443.828,51.8438 C443.016,52.2188 442.089,52.4063 441.047,52.4063 C439.516,52.4063 438.336,51.9948 437.508,51.1719 C436.68,50.349 436.266,49.1667 436.266,47.625 C436.266,45.9375 436.859,44.6719 438.047,43.8281 C439.234,42.9844 441.021,42.5625 443.406,42.5625 L446.031,42.5625 L446.031,41.6719 C446.031,40.4531 445.745,39.5547 445.172,38.9766 C444.599,38.3984 443.708,38.1094 442.5,38.1094 C441.5,38.1094 440.729,38.3151 440.188,38.7266 C439.646,39.138 439.26,39.8125 439.031,40.75 L437.422,40.75 L437.422,37.5 C438.328,37.1771 439.26,36.9349 440.219,36.7734 C441.177,36.612 442.193,36.5313 443.266,36.5313 C445.953,36.5313 447.922,37.0313 449.172,38.0313 C450.422,39.0313 451.047,40.6042 451.047,42.75 M446.031,47.2656 L446.031,44.25 L444.156,44.25 C443.219,44.25 442.5,44.5052 442,45.0156 C441.5,45.526 441.25,46.2604 441.25,47.2188 C441.25,48.1667 441.432,48.8776 441.797,49.3516 C442.161,49.8255 442.719,50.0625 443.469,50.0625 C444.24,50.0625 444.859,49.8073 445.328,49.2969 C445.797,48.7865 446.031,48.1094 446.031,47.2656 M469.438,36.7813 L469.438,41.2656 L467.828,41.2656 C467.776,40.4635 467.563,39.8672 467.188,39.4766 C466.813,39.0859 466.266,38.8906 465.547,38.8906 C464.453,38.8906 463.589,39.3724 462.953,40.3359 C462.318,41.2995 462,42.6354 462,44.3438 L462,50.2813 L464.734,50.2813 L464.734,52 L454.844,52 L454.844,50.2813 L456.984,50.2813 L456.984,38.6563 L454.688,38.6563 L454.688,36.9531 L462,36.9531 L462,39.625 C462.49,38.5729 463.138,37.7943 463.945,37.2891 C464.753,36.7839 465.745,36.5313 466.922,36.5313 C467.214,36.5313 467.568,36.5547 467.984,36.6016 C468.401,36.6484 468.885,36.7083 469.438,36.7813 M478.172,55.4063 C477.724,56.5104 477.177,57.2917 476.531,57.75 C475.885,58.2083 475.021,58.4375 473.938,58.4375 C473.479,58.4375 472.966,58.3854 472.398,58.2813 C471.831,58.1771 471.214,58.026 470.547,57.8281 L470.547,54.6875 L472.141,54.7031 C472.172,55.4323 472.344,55.9714 472.656,56.3203 C472.969,56.6693 473.443,56.8438 474.078,56.8438 C474.693,56.8438 475.19,56.6771 475.57,56.3438 C475.951,56.0104 476.328,55.375 476.703,54.4375 L476.922,53.9063 L470.375,38.6563 L468.75,38.6563 L468.75,36.9531 L477.422,36.9531 L477.422,38.6563 L475.625,38.6563 L479.453,47.5625 L483.016,38.6563 L481.016,38.6563 L481.016,36.9531 L486.672,36.9531 L486.672,38.6563 L484.844,38.6563 L478.172,55.4063"/>
+</g>
+
+<g fill="#8f8f8f" fill-opacity="1" stroke="#8f8f8f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#8f8f8f" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+ ></text>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#6b6b6b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M496.016,52 L486.953,52 L486.953,50.2813 L489.094,50.2813 L489.094,31.6719 L486.953,31.6719 L486.953,29.9688 L494.109,29.9688 L494.109,44.1094 L500.188,38.6563 L498.391,38.6563 L498.391,36.9531 L505.25,36.9531 L505.25,38.6563 L502.469,38.6563 L498.578,42.1406 L504.922,50.2813 L506.563,50.2813 L506.563,52 L497.922,52 L497.922,50.2813 L499.688,50.2813 L495.516,44.9219 L494.109,46.1719 L494.109,50.2813 L496.016,50.2813 L496.016,52 M508.703,32.6875 C508.703,31.9167 508.969,31.2708 509.5,30.75 C510.031,30.2292 510.677,29.9688 511.438,29.9688 C512.188,29.9688 512.823,30.2292 513.344,30.75 C513.865,31.2708 514.125,31.9167 514.125,32.6875 C514.125,33.4271 513.865,34.0599 513.344,34.5859 C512.823,35.112 512.188,35.375 511.438,35.375 C510.677,35.375 510.031,35.1146 509.5,34.5938 C508.969,34.0729 508.703,33.4375 508.703,32.6875 M514.188,50.2813 L516.344,50.2813 L516.344,52 L507.031,52 L507.031,50.2813 L509.172,50.2813 L509.172,38.6563 L507.031,38.6563 L507.031,36.9531 L514.188,36.9531 L514.188,50.2813 M529.516,45.2188 L529.516,43.7344 C529.516,41.974 529.289,40.7031 528.836,39.9219 C528.383,39.1406 527.656,38.75 526.656,38.75 C525.625,38.75 524.898,39.1615 524.477,39.9844 C524.055,40.8073 523.844,42.3021 523.844,44.4688 C523.844,46.625 524.057,48.1198 524.484,48.9531 C524.911,49.7865 525.635,50.2031 526.656,50.2031 C527.656,50.2031 528.383,49.8099 528.836,49.0234 C529.289,48.237 529.516,46.9688 529.516,45.2188 M534.516,50.2813 L536.656,50.2813 L536.656,52 L529.516,52 L529.516,50.0938 C529.089,50.875 528.513,51.4557 527.789,51.8359 C527.065,52.2161 526.177,52.4063 525.125,52.4063 C522.99,52.4063 521.31,51.6979 520.086,50.2813 C518.862,48.8646 518.25,46.9271 518.25,44.4688 C518.25,41.9896 518.862,40.0469 520.086,38.6406 C521.31,37.2344 522.99,36.5313 525.125,36.5313 C526.177,36.5313 527.065,36.724 527.789,37.1094 C528.513,37.4948 529.089,38.0781 529.516,38.8594 L529.516,31.6719 L527.359,31.6719 L527.359,29.9688 L534.516,29.9688 L534.516,50.2813 M539.672,49.7031 C539.672,48.9635 539.938,48.3307 540.469,47.8047 C541,47.2786 541.635,47.0156 542.375,47.0156 C543.115,47.0156 543.75,47.2786 544.281,47.8047 C544.813,48.3307 545.078,48.9635 545.078,49.7031 C545.078,50.4531 544.813,51.0911 544.281,51.6172 C543.75,52.1432 543.115,52.4063 542.375,52.4063 C541.635,52.4063 541,52.1432 540.469,51.6172 C539.938,51.0911 539.672,50.4531 539.672,49.7031 "/>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#6b6b6b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<text fill="#6b6b6b" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+ ></text>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
@@ -742,12 +810,12 @@ font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
@@ -791,12 +859,12 @@ font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
@@ -840,7 +908,7 @@ font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+<g fill="#6b6b6b" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
 </g>
@@ -1367,42 +1435,6 @@ font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal"
 <g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
 font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
 >
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
-font-family="DejaVu Sans" font-size="12" font-weight="400" font-style="normal" 
-opacity="0.75" >
-<image x="311" y="24" width="239" height="37" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAO8AAAAlCAYAAACqA75rAAAACXBIWXMAAA9hAAAPYQGoP6dpAAAL2klEQVR4nO2cedAcRRmHn19OIAcQ8UC5TUBA8QBFBQTKC7kUBKVAEQUVkVhQCh54oHihVGF5C2iilEIpiAcIqERQ8AAUBTwgGhCjRJAzGKIh+fnH2/t9s7M9++1+e3whzlO1tbs9vd3v7Ex3v1cP1NTU1NTU1NTU1NTU1NTU1NTUrEWo1wZsHwmcCmwIfB14h6T/9truMLB9DvDkisOnSVo0THlqusP2XOCtFYeXS3p/D21vAbwSeDywBDhf0oPjaOdo4KkVhy+WdMV4ZZwy3h8C2H4esJDRSWA+cBfw4V7aHSKLgYeBLYDZg+zI9u7E//O40qFXSHpgkH2vw6wEbgMmE9ewL9ieDhwDzEpF2wOvAT4/juaWATOAjYGN+iJgYlLjg+1z3MqxY/x+P1pX7/36KeAgkXS6pPnAbwfVh+3H2/4ocBqtA7emByQtlfRpYEGfm96S0YHbYK7tqd02JOmSJOOv+yJZgZ5WXuC+TNn9Pba5TmB7CnAo8DpgOrFKrDehQtV0yopM2SrgkWEL0o5JY1dpywJgaeH7I8AnemxzXeEk4E2EZrIA+NjEilPTKZKWAn8sFV8hyRMhTxU9rbyS7rX9LOImnQ18U1Lf1YNHKTOAXwKflnRn8g/UPHr4MrArYeoskXTjBMvTQq9qM5LuBj7SB1nWNb6YZvCaRyGSVgM/n2g52jHF9vXAzhXHv2D7C4Xvn5N0vO29gJ9U/Oafkp5Q1aHtacARwAGp303SobuBa4FvAResDSqK7Y0IL+PzCTlXAn8DrgYukrSy6rf9Gri2q/5nCHv6TuAQYG9gU8K+Xgb8FDhP0r8r2t0AeAZxDbYjPKEbEXb5CuBfhDf+Z8Av0s1cbuNA4MQK2e6TdLDtGUTIpShfJ7xP0tWpnznAhZk6F0r6bIftYfsk4IkVh98l6T+2z2zTxMck3VXR9mxgT8IzPYcwl+4BfkP1WOmJKYSndSUwl4hpFfkLcSMUvwM8AFwDTAOe3WlnSXU8n1G3/hrixKYCexBevkOBX9k+SNKd3ZxMn5kDfIlmD/FUYIf0Otj2OyUtmQjhErOA9xHXrsjmxAS5m+3jKwbwicCL0udVwE3ArcT5bgdsnV4vARbbPlXSP7oRzvbGwBnANpnDfyMmi7JX9x5iQirGVFcBNxP327bAcuCvQFfyEP6ZNcBmhe+r0uc16f229L45HWqmtp8KvDbJV2RTIvqyQ5K3r0yRdEwS4Bzg6NLxMyR9sfwjSTcAu9vejLgIY2J7N2ARzSd4tKSF6fjxwGdS+a7AT23vPJ7AeJ94PXAvcCZxI+0NvKBwfBPgTNtvkHTPAOVohOtOAx5bOnYycaOfnb4fCuxSOL4VcBTwuTbt3w68XdK9jYJ0XU9ndJWaB5yRzrWobdyc2p6R+ilzAjFRXwr8nbiJn5+OLSQG7/zSbx5I4bsRJC0H5tt+GXHO50r6VptzquIC4I3p8+WSLitXSGEdbL8XeMxYDdreCngDzSFTA1cRE8EmxCS56TjkbUuv3uaOsL0+8E2aB+4y4KuF71+iebadC3xy8NJVMhk4QdL3JF0p6QPA9aU6s4G3DFIISbdIuoXRFaLIf4H3SLpW0rXA+1NZkX1st8uk+1Rx4KY+lwJnleptCryiVG+JpAuAH2Ta3ZAYqO+Q9AlJX5d0CjGBN7iMSJIpso3tnSpk3Y+IaPywzflkSYkXxxIT0fdzA3ccbQo4jNZchx9K+q6kG1OW3kIGECYcyuAlVvSyrXF90a6VtAr4XanOUbbLqvyw+HlmRc1d8L2STTYRXCapoe4h6WFa1bOZjKqJRRYAx0kq/+cNyqESGF01O2ESMUjK7S8i7OmVklaQH4gHlQtsbwnsCFzdbUZasu+PI8yAb/cx7TVnakL4bkaQdCvh0+krwxq8L8+U5eyVso07jcyFHBKLM2V/zpRNJhw/E8FfMmUPZco2LhdI+oek3ABtkEu22bxTwRI/yvR7jaRDJTU8ud/J/G4P22WVdf/0nlvlK7E9k8h/3oJwvP2sm9+PwbaZsv+UNZlE3yMPPYeKOiTnzc5lseTKdgNa7O4hkLsAVbbt1oMUpA05f0DOS5/18NqeBewDPIe4uTesqpuY2YVsa8hPdk1Iut32b2meACcDB5LSHlO22kuAf9JqulSSPMDHMbo67mz7yhTe7Ac5O7bKR7O8T32OMPCV1/Zk8gnZJ5QTqck7Pcqe1GGRszGrQkMD3dTQhk7T9VpsXtu7At8gbu5dCC/zVOAOIrxxQ6adbu6XfydTqBMuypTtnwYtRCRiNnBpFyHEacDbaFZrpwNHpnuyH2yQKas6507/i44Zxspb5Sx5kHxudJm1aXthS6wzMeEx6W6w/STgQzQ7EJcDJ0v6U6ozDbi8h266yQO+hrAJi970OUTc9ApCZV5DeK07ZTpxf99B846jzVJ73+2irW5YM3aV/jDwwSvpEdsPEipZkQWSThh0/z2QW2XKcbwGfVeJBsyBtJ7L+Y2BO2wkrbb9fSLkUuQg238AnglcV5UgUcFq4Bxi8J5Es/a3p+1b+nC+OTOvakz1a7UfYVgOq9yWuxYnSqfYnmr7GNsfTvtkB0FOJSonFDS4raJ8bWVepqyd82oYXEzrar0jEQcWcEmX7a2Q9Kfk0T6XZu1IwBHJ5u+FXBLRjIq6HYeKbE+2/Vzb+9rOJbgAzYM3p+aMqLy2H2t7d9tP61SIAjkP4Y5VlW1Ps32H7fttH146ptTe2cApRDLHkeOQaSxyzohc2WoGuB94QOQ0iLJ5kpu8Boak+4jEhjLPIzzf484zTllw5ZDUTGIA9/I0mVszZTNTTLlMOcEmS5LnTcCrgRcDx9veJVe3OHhzoYH1C58PI/JcT+1EiBJnZdp/ZptZ5RAiLDGJVjtnL0bT+iAmmA+NQ6axyHnIcyGhqypCA2szOfWzHAbafhiClMg5riCSHnrdS3s58TibItsRmXPj5c+EB7yIKGk2Kc68ZYdtzqU5BCVg31zF4uDNbeXbIXU+idHsml92KMRo79L9hCe5qLpMAr5qe5NiXdsvBRqbIU5JM3KRXMramGls42Ce7ZEYs+OZRoeU6jzI+B6NMtFckyk7JMVESdfkzcMVCST9nnx8vVuVOde2CfW5bKfua7vb+HWxzfNpdVge0IhTp1X4MDr3L+U0nqwWVFSL1wNupHnWMPBjwt2+E6HjP43w3n2G/MaEVYxmmOwjaSRpwPb+RKpYcbCtIFSih1PfTyFU+A9KankWlu3HEepK0QF2nqTDy3XHwvY7Ce9j7hlWlxJqy91E4sM2NDsd/kXsRMklSmB7HhGqaDCL/Oz7R5q92CenTKlGO418721pVXcXE0kB820fTKwiW9Nqd92ezuFCSVemyfh0mvOgIa7FMsI8WECEkcrcnN4/SPgt3kbcmE8p1XsEaDiErpP0tUxbLRTyl0f6K+c6F+puBhxM/hlWqwln1d2SzksZWi8nco3Ltu5DxHW+HHhpKsttTGhsZLi4uCElmZKvofn6mNjAM5MIMS4hxlCRFcR9f4OkS1JbMwlzsGgj/0bSueXzHxFO0srk/DmJuGm3Th3vnoQ+C/iopHuSsLuVG0tMLRxrOnlJF6dE7qOI5ICnE3/mnulEFwMfB74iKTcDI+mutBXts8RguIzqJwiOxTyqnx55PZHIfniS08RFXkqYDxcVB1mGGVQ/NbBIWT0teyXbtVGcaJ/Ypu5W6f0qAElrbL8beBXwQmICM5GYchPwAUK1zg3eRh/TaX+OUwrHllXUybGIyBdvDLB2q+56VCfITE7HGvbn+m3qzkyvWW3qwGiaadPkKOkm2x8hTLrtiUltMjGB/YJYAIubWhpskF4jk4mkh2yfTWh5c4jJPbcdsqZm7cP2sbZ/YvuSpBHWZBhWqKimphsaj5xZ1O6BB//v1IO3ZsKwfYTtr9kuJ/AckN57dlSty9SDt2Yi2ZhwDO3RKEh+l10JJ86EZHw9WhjWrqKamnacaHtvYjHZifDOtnv6Rw314K2ZWK4mco63JzLuVgLXAQurQnA1NTU1NTU1NTU1NTVd8D92Ace1PSt4qwAAAABJRU5ErkJggg==" />
 </g>
 
 <g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1.1875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
